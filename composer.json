@@ -1,0 +1,22 @@
+{
+  "name": "jumper423/javascript-canvas-to-blob",
+  "version": "2.2.0",
+  "title": "JavaScript Canvas to Blob",
+  "description": "JavaScript Canvas to Blob is a function to convert canvas elements into Blob objects.",
+  "keywords": [
+    "javascript",
+    "canvas",
+    "blob",
+    "convert",
+    "conversion"
+  ],
+  "homepage": "https://github.com/jumper423/JavaScript-Canvas-to-Blob",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastian Tschan",
+      "homepage": "https://blueimp.net"
+    }
+  ],
+  "require": {}
+}
